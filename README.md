@@ -1,4 +1,3 @@
-package Workspace.Example.HelloWorld;
 
 public class HelloWorld {
 
@@ -8,12 +7,6 @@ public class HelloWorld {
 	}
 
 }
-
-
-
-package Workspace.Example.Arrays;
-
-
 
 
 public class Arrays {
@@ -49,8 +42,6 @@ public class Arrays {
 
 }
 
-
-package Workspace.Example.Loops;
 
 public class Loops {
 
@@ -88,8 +79,6 @@ public class Loops {
 
 }
 
-
-package Workspace.Example.Loops;
 
 public class NestedLoops {
 
